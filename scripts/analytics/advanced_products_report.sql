@@ -1,6 +1,6 @@
 /*
 ======================================
-           CUSTOMER REPORT 2
+           PRODUCT REPORT
 ======================================
 Purpose:
     - This report consolidates key customer metrics and behaviors
